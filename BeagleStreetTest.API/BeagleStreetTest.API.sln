@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeagleStreetTest.Data", "Be
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeagleStreetTest.Domain", "BeagleStreetTest.Domain\BeagleStreetTest.Domain.csproj", "{89DA7A98-4A42-4A1D-B621-9322AE69C70F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeagleSteetTest.Domain.UnitTests", "BeagleSteetTest.Domain.UnitTests\BeagleSteetTest.Domain.UnitTests.csproj", "{837FAB51-E197-4F3F-9FEB-248C59E012B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeagleStreetTest.Domain.UnitTests", "BeagleSteetTest.Domain.UnitTests\BeagleStreetTest.Domain.UnitTests.csproj", "{837FAB51-E197-4F3F-9FEB-248C59E012B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeagleStreetTest.Data.UnitTests", "BeagleStreetTest.Data.UnitTests\BeagleStreetTest.Data.UnitTests.csproj", "{E892ACF2-CCA8-47F2-A74B-1899C4BD9450}"
 EndProject
